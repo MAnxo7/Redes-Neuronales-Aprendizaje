@@ -1,0 +1,2 @@
+**Proyecto muy pocho y nada profesional**
+Logro aplicar Backpropagation en una red de 3 neuronas de forma efectiva para lograr la operación XOR. El codigo no es flexible y esta muy mal planteado, pero aprendí a implementar por primera vez Backpropagation.

@@ -1,0 +1,2 @@
+Entreno a 3 neuronas para poder obtener una neurona que sepa hacer XOR
+n1 y n2 las entreno con las operaciones NAND y OR, con la salida de estas 2 neuronas, se puede lograr que la tercera neurona sepá hacer XOR.
