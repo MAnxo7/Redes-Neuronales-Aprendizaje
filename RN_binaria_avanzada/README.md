@@ -1,1 +1,0 @@
-Proyecto en el cual puedes crear redes neuronales binarias asignando las neuronas que quieras por capa. Es capaz de aprender patrones binarios y incluso generalizar en algunos casos simples. 
